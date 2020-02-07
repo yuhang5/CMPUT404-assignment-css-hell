@@ -24,6 +24,7 @@ Code is licensed under the Apache 2.0 license.
 ------------------------------------------------------------------------------
 Part 1
 [] Change the body background color to be "#ffffcc".
+
 [] Change the table row background to be "#ffffe0".
 [] Set font to oblique for predefined. Change the size of text. Change the size of table data.
 [] Add yellow solid outline for every table row.
